@@ -8,8 +8,8 @@ import Hello from './components/hello'
 function App() {
   return (
     <div className="App">
-      {/* <Greet />*/}
-      {/*<Welcome /> */}
+      <Greet />
+      <Welcome />
       <Hello />
     </div>
   );
